@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Tailwind Css, JS and Database**
 
-- 💬 Ask me about **Frontend designs and devlopment.**
+- 💬 Ask me about **Frontend designs and development.**
 
 - 📫 How to reach me **ProfessionalNehal@outlook.com**
 
