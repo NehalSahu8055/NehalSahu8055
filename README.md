@@ -5,7 +5,7 @@
  -->
 - 🔭 I’m currently working on **FrontEnd Developement**
 
-- 🌱 I’m currently learning **Tailwind Css, JS and Database**
+- 🌱 I’m currently learning **React JS, Tailwind Css**
 
 - 💬 Ask me about **Frontend designs and development.**
 
