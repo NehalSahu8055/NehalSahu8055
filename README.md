@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nehalsahu8055@gmail.com**
 <br><br>
-## <picture><img src="https://drive.google.com/file/d/1ydkBbNHT54eqhcyIWvq81lMWv6BLToKk/view?usp=sharing" width = 50px></picture> **About me**
+## **About me**
 
 <picture>
   <source media="(max-width: 767px)" srcset="">
