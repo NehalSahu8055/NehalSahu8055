@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nehalsahu.netlify.app/](https://nehalsahu.netlify.app/)
 
-- 💬 Ask me about **react, svelte , redux, express**
+- 💬 Ask me about **react, svelte , redux, express, mongodb**
 
 - 📫 How to reach me **nehalsahu8055@gmail.com**
 <br><br>
