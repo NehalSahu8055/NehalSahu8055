@@ -1,19 +1,13 @@
-<p align="center">
-<img src="https://media.giphy.com/media/fwz0kqK73CSTZA3srV/giphy.gif"/>
-</p>
-<br>
-
-
 <h1 align="center">Hi 👋, I'm Nehal Sahu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN developer from India</h3>
 
-- 🔭 I’m currently working on **Web Developement**
+- 🔭 I’m currently working on **Fullstack Development**
 
-- 🌱 I’m currently learning **Redux ,Express JS**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://nehalsahu.netlify.app/](https://nehalsahu.netlify.app/)
 
-- 💬 Ask me about **react, svelte , redux, express, mongodb**
+- 💬 Ask me about **react, svelte , redux, nodejs, mongodb**
 
 - 📫 How to reach me **nehalsahu8055@gmail.com**
 <br><br>
@@ -26,7 +20,7 @@
 
 <br>
 
-- Hello! I'm Nehal Sahu, a passionate individual deeply immersed in the world of web development since 2015 when I received my first laptop from my brother. What started as a fascination with HTML and CSS has evolved into a fulfilling journey within the computer realm
+- Hello! I'm Nehal Sahu, a passionate individual deeply immersed in the world of web development since 2019 when I received my first laptop from my brother. What started as a fascination with HTML and CSS has evolved into a fulfilling journey within the computer realm
 
 - Over the years, I've had the privilege of contributing to various projects, including serving as a software developer at a foundation, interning at Code Alpha, and leading my own team at Discord. These experiences have equipped me with a diverse skill set and a profound understanding of the intricacies of web development
 
@@ -49,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
  <br>
 
-- **Web Development**:
+- **Frontend**:
   
     <img src="https://static-00.iconduck.com/assets.00/file-type-html-icon-451x512-vzyw6pa7.png" title="html5" width="35" height="40"/>&nbsp;&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="css" 
@@ -58,9 +52,23 @@
    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="tailwind" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" title="svelte" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="express" width="40" height="40"/>
-
  
+<br>
+
+- **Backend**:
+ 
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="nodejs" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="expressjs" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+    
+  <br>
+  
+
+- **Databases**:
+ 
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src = "https://avatars.githubusercontent.com/u/7552965?s=200&v=4" title="mongoose" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+  
+
 <br>
 
 - **Cloud Hosting**:
