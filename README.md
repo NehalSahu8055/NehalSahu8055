@@ -50,6 +50,7 @@
    width="40" height="40"/>&nbsp;&nbsp;&nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="tailwind" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" title="material ui" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" title="svelte" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
  
@@ -65,15 +66,17 @@
 
 - **Databases**:
  
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-  <img src = "https://avatars.githubusercontent.com/u/7552965?s=200&v=4" title="mongoose" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
+  <img src = "https://avatars.githubusercontent.com/u/7552965?s=200&v=4" title="mongoose" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
   
 
 <br>
 
 - **Cloud Hosting**:
 
-  <img src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" title="netlify" width="40" height="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" title="netlify" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+   <img src="https://camo.githubusercontent.com/09a11f3cef0b31aa2f56015680ee1f783ef4ba9234e293793c30fb0b819b691f/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" title="vercel" width="40" height="40"/>
+  
 
     
 <br>
@@ -82,11 +85,12 @@
 
    <img src="https://static-00.iconduck.com/assets.00/git-icon-256x256-nki51ae3.png" title="git" width="40" height="40" />&nbsp;&nbsp;&nbsp;
    <img src="https://static-00.iconduck.com/assets.00/github-icon-512x497-oppthre2.png" title="github" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+   <img src="https://static-00.iconduck.com/assets.00/postman-icon-248x256-ik126so4.png" title="postman" width="40" height="40" />&nbsp;&nbsp;&nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
    <img src="https://static-00.iconduck.com/assets.00/webstorm-icon-512x512-lmof1hfg.png" title="webstorm" width="40" height="40" />&nbsp;&nbsp;&nbsp;
    <img src="https://static-00.iconduck.com/assets.00/figma-icon-171x256-cm2xsty6.png" title="figma" width="30" height="40" />&nbsp;&nbsp;&nbsp;
    <img src="https://static-00.iconduck.com/assets.00/sublime-merge-icon-256x231-lx1fb5pk.png" title="sublime merge" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-   <img src="https://static-00.iconduck.com/assets.00/postman-icon-248x256-ik126so4.png" title="postman" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+   
 
 <br>
 </p>
