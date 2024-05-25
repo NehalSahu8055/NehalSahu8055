@@ -60,9 +60,9 @@
  
   <img src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="nodejs" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="expressjs" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="laravel" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
     
   <br>
-  
 
 - **Databases**:
  
